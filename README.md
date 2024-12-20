@@ -16,6 +16,8 @@ CIFAR-100 데이터셋으로 모델을 학습시키고 저장하여, 저장된 �
 
 3. **`cifar100_densenet_model.h5`**:
    - 학습된 DenseNet 모델 파일로, `predict_cifar100_image.py`에서 이미지를 분류하는 데 사용됩니다.
+   - 모델 파일이 깃허브 업로드 용량을 초과해, 아래의 구글 드라이브 링크를 통해 다운로드 할 수 있습니다.
+   - https://drive.google.com/file/d/1V9xzP4QhjVelZh7tDHn1UnDO7E51oOBl/view?usp=sharing
   
 ## 사용 예시
 
